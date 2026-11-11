@@ -1,0 +1,2 @@
+In ML, the output values are predicted from input values.
+In DL, neural networks are used.
